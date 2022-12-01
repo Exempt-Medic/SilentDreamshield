@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilentDreamshield", "SilentDreamshield\SilentDreamshield.csproj", "{D5744478-56B4-4FE5-9B9E-C54E1C353792}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{4A0D2DD1-26FC-46B4-A383-E9FD1D64EADC}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\build.yml = .github\workflows\build.yml
+		.github\dependabot.yml = .github\dependabot.yml
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5744478-56B4-4FE5-9B9E-C54E1C353792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5744478-56B4-4FE5-9B9E-C54E1C353792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5744478-56B4-4FE5-9B9E-C54E1C353792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5744478-56B4-4FE5-9B9E-C54E1C353792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9045816-AEAE-4F6A-926E-678F2E1671C4}
+	EndGlobalSection
+EndGlobal
